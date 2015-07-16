@@ -1,0 +1,29 @@
+{
+  "name": "emailboilerplate",
+  "version": "0.1.0",
+  "description": "A Gulp workflow for designing and testing HTML email templates with SCSS.",
+  "author": "Vivian Spencer <vivian@byinspiration.co.uk>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivianspencer/EmailBoilerplate.git"
+  },
+  "devDependencies": {
+    "gulp-htmlhint": "^0.2.0",
+    "gulp-inline-css": "^2.0.0",
+    "browser-sync": "^2.7.13",
+    "gulp": "^3.9.0",
+    "gulp-special-html": "^0.0.4",
+    "gulp-litmus": "^0.0.7",
+    "gulp-sass": "^2.0.4"
+  },
+  "keywords": [
+    "gulp",
+    "scss",
+    "email"
+  ],
+  "bugs": {
+    "url": "https://github.com/vivianspencer/EmailBoilerplate/issues"
+  },
+  "homepage": "https://github.com/vivianspencer/EmailBoilerplate#readme",
+  "license": "ISC"
+}

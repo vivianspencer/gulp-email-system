@@ -1,6 +1,8 @@
 # Exclude these files from the git repo
+.idea
 *.sublime-project
 *.sublime-workspace
+node_modules
 
 # Hidden system files
 *.DS_Store
