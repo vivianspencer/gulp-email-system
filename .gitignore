@@ -3,6 +3,7 @@
 *.sublime-project
 *.sublime-workspace
 node_modules
+build
 
 # Hidden system files
 *.DS_Store

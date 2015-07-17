@@ -8,13 +8,19 @@
     "url": "git+https://github.com/vivianspencer/EmailBoilerplate.git"
   },
   "devDependencies": {
-    "gulp-htmlhint": "^0.2.0",
-    "gulp-inline-css": "^2.0.0",
     "browser-sync": "^2.7.13",
     "gulp": "^3.9.0",
-    "gulp-special-html": "^0.0.4",
+    "gulp-clean": "^0.3.1",
+    "gulp-hb": "^2.6.1",
+    "gulp-help": "^1.6.0",
+    "gulp-htmlhint": "^0.2.0",
+    "gulp-inline-css": "^2.0.0",
     "gulp-litmus": "^0.0.7",
-    "gulp-sass": "^2.0.4"
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-special-html": "^0.0.4",
+    "handlebars-layouts": "^3.1.0",
+    "run-sequence": "^1.1.1"
   },
   "keywords": [
     "gulp",
