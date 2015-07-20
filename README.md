@@ -24,11 +24,13 @@ npm install
 
 Run `gulp` in the terminal and look at the generated /build folder to see your compiled and inlined email templates.
 
+## Testing
+
+Run the following command and in a few seconds/minutes, you'll see the test appear in Litmus for you!
 
 ```
 gulp litmus
 ```
-In a few seconds/minutes, you'll see the test appear in Litmus for you!
 
 ## Contributing
 
