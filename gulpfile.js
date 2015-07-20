@@ -74,7 +74,7 @@ gulp.task('htmlhint', function() {
  * Send HTML to litmus
  */
 gulp.task('litmus', ['build'], function() {
-    return gulp.src('./build/index.html')
+    return gulp.src('./build/*.html')
         .pipe(litmus(config.litmus));
 });
 

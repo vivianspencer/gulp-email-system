@@ -1,7 +1,7 @@
 {
-  "name": "emailboilerplate",
+  "name": "gulp-email-system",
   "version": "0.1.0",
-  "description": "A Gulp workflow for designing and testing HTML email templates with SCSS.",
+  "description": "A sytem to help ease designing and testing HTML email templates, using Gulp, SCSS & Handlebars.",
   "author": "Vivian Spencer <vivian@byinspiration.co.uk>",
   "repository": {
     "type": "git",

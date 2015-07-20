@@ -12,7 +12,7 @@ module.exports = {
         password: 'litmus_password',
         url: 'https://yourcompany.litmus.com',
         applications: ['android4', 'aolonline', 'androidgmailapp', 'aolonline', 'ffaolonline',
-            'chromeaolonline', 'appmail6', 'iphone6', 'ipadmini', 'ipad', 'chromegmailnew',
+            'chromeaolonline', 'iphone6', 'ipadmini', 'ipad', 'chromegmailnew',
             'iphone6plus', 'notes85', 'ol2002', 'ol2003', 'ol2007', 'ol2010', 'ol2011',
             'ol2013', 'outlookcom', 'chromeoutlookcom', 'chromeyahoo', 'windowsphone8'] // Full list at https://yourcompany.litmus.com/emails/clients.xml
     }
